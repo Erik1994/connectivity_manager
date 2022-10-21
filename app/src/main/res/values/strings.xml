@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Connectivity checker</string>
+    <string name="connectivity_status">Connectivity status: %1$s</string>
 </resources>
