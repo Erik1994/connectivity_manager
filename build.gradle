@@ -4,7 +4,6 @@ buildscript {
     ext {
         lifecycle_version = "2.5.1"
         coroutine_version = "1.6.4"
-        activity_version = "1.6.0"
     }
 }
 plugins {
